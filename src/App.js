@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.puce.edu.ec/"
+          href="https://www.puce.edu.ec"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          puce Mario
         </a>
       </header>
     </div>
